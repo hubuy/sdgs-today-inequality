@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="805.902" height="357.023" viewBox="0 0 805.902 357.023">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        font-size: 10px;
+        font-family: ProximaNova-Bold, Proxima Nova;
+        font-weight: 700;
+      }
+
+      .cls-3, .cls-5 {
+        font-size: 8px;
+        font-family: RobotoMono-Italic, Roboto Mono;
+        font-style: italic;
+      }
+
+      .cls-3, .cls-6 {
+        opacity: 0.3;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #000;
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_47" data-name="Rectangle 47" class="cls-1" width="224.251" height="31.844" transform="translate(0)"/>
+    </clipPath>
+  </defs>
+  <g id="ch2-graph" transform="translate(-156 -5492)">
+    <text id="SUECIA" class="cls-2" transform="translate(170.823 5540)"><tspan x="0" y="0">SUECIA</tspan></text>
+    <text id="_2003" data-name="2003" class="cls-3" transform="translate(170.6 5556)"><tspan x="0" y="0">2003</tspan></text>
+    <line id="Line_1" data-name="Line 1" class="cls-4" x2="68.818" transform="translate(171.082 5523.5)"/>
+    <text id="_2015" data-name="2015" class="cls-5" transform="translate(212.761 5556)"><tspan x="0" y="0">2015</tspan></text>
+    <rect id="Rectangle_45" data-name="Rectangle 45" class="cls-6" width="28.669" height="86" transform="translate(170.335 5577.289)"/>
+    <rect id="Rectangle_46" data-name="Rectangle 46" width="28.669" height="129" transform="translate(210.809 5577.289)"/>
+    <text id="_25_3" data-name="25,3" class="cls-3" transform="translate(183.335 5676)"><tspan x="-9.391" y="0">25,3</tspan></text>
+    <text id="_29_2" data-name="29,2" class="cls-5" transform="translate(223.809 5718)"><tspan x="-9.391" y="0">29,2</tspan></text>
+    <text id="FRANCIA" class="cls-2" transform="translate(266.106 5540)"><tspan x="0" y="0">FRANCIA</tspan></text>
+    <text id="_2003-2" data-name="2003" class="cls-3" transform="translate(265.883 5556)"><tspan x="0" y="0">2003</tspan></text>
+    <line id="Line_1-2" data-name="Line 1" class="cls-4" x2="68.818" transform="translate(266.365 5523.5)"/>
+    <text id="_2015-2" data-name="2015" class="cls-5" transform="translate(300.681 5556)"><tspan x="0" y="0">2015</tspan></text>
+    <rect id="Rectangle_45-2" data-name="Rectangle 45" class="cls-6" width="28.669" height="146.629" transform="translate(265.617 5577.289)"/>
+    <rect id="Rectangle_46-2" data-name="Rectangle 46" width="28.669" height="171.109" transform="translate(298.74 5577.289)"/>
+    <text id="_31_4" data-name="31,4" class="cls-3" transform="translate(278.617 5735.371)"><tspan x="-9.391" y="0">31,4</tspan></text>
+    <text id="_32_7" data-name="32,7" class="cls-5" transform="translate(311.666 5757.891)"><tspan x="-9.391" y="0">32,7</tspan></text>
+    <text id="ITALIA" class="cls-2" transform="translate(351.377 5540)"><tspan x="0" y="0">ITALIA</tspan></text>
+    <text id="_2003-3" data-name="2003" class="cls-3" transform="translate(351.231 5556)"><tspan x="0" y="0">2003</tspan></text>
+    <line id="Line_1-3" data-name="Line 1" class="cls-4" x2="68.818" transform="translate(351.055 5523.5)"/>
+    <text id="_2015-3" data-name="2015" class="cls-5" transform="translate(391.35 5556)"><tspan x="0" y="0">2015</tspan></text>
+    <rect id="Rectangle_45-3" data-name="Rectangle 45" class="cls-6" width="28.669" height="86" transform="translate(350.864 5577.289)"/>
+    <rect id="Rectangle_46-3" data-name="Rectangle 46" width="28.669" height="211.883" transform="translate(389.356 5577.289)"/>
+    <text id="_24_9" data-name="24,9" class="cls-3" transform="translate(363.823 5674)"><tspan x="-9.391" y="0">24,9</tspan></text>
+    <text id="_35_4" data-name="35,4" class="cls-5" transform="translate(402.339 5800.117)"><tspan x="-9.391" y="0">35,4</tspan></text>
+    <text id="GRECIA" class="cls-2" transform="translate(441.783 5540)"><tspan x="0" y="0">GRECIA</tspan></text>
+    <text id="_2003-4" data-name="2003" class="cls-3" transform="translate(441.9 5556)"><tspan x="0" y="0">2003</tspan></text>
+    <line id="Line_1-4" data-name="Line 1" class="cls-4" x2="68.818" transform="translate(441.43 5523.5)"/>
+    <text id="_2015-4" data-name="2015" class="cls-5" transform="translate(482.019 5556)"><tspan x="0" y="0">2015</tspan></text>
+    <rect id="Rectangle_45-4" data-name="Rectangle 45" class="cls-6" width="28.669" height="164.859" transform="translate(441.48 5577.289)"/>
+    <rect id="Rectangle_46-4" data-name="Rectangle 46" width="28.669" height="213.531" transform="translate(479.972 5577.289)"/>
+    <text id="_32_8" data-name="32,8" class="cls-3" transform="translate(454.497 5753.141)"><tspan x="-9.391" y="0">32,8</tspan></text>
+    <text id="_36" data-name="36" class="cls-5" transform="translate(489.181 5801.469)"><tspan x="-4.695" y="0">36</tspan></text>
+    <text id="ESPAÑA" class="cls-2" transform="translate(532.585 5540)"><tspan x="0" y="0">ESPAÑA</tspan></text>
+    <text id="_2003-5" data-name="2003" class="cls-3" transform="translate(532.568 5556)"><tspan x="0" y="0">2003</tspan></text>
+    <line id="Line_1-5" data-name="Line 1" class="cls-4" x2="68.818" transform="translate(531.804 5523.5)"/>
+    <text id="_2015-5" data-name="2015" class="cls-5" transform="translate(572.687 5556)"><tspan x="0" y="0">2015</tspan></text>
+    <rect id="Rectangle_45-5" data-name="Rectangle 45" class="cls-6" width="28.669" height="145.309" transform="translate(532.096 5577.289)"/>
+    <rect id="Rectangle_46-5" data-name="Rectangle 46" width="28.669" height="216.711" transform="translate(570.588 5577.289)"/>
+    <text id="_31_8" data-name="31,8" class="cls-3" transform="translate(545.17 5732.691)"><tspan x="-9.391" y="0">31,8</tspan></text>
+    <text id="_36_2" data-name="36,2" class="cls-5" transform="translate(583.687 5804.289)"><tspan x="-9.391" y="0">36,2</tspan></text>
+    <text id="AUSTRALIA" class="cls-2" transform="translate(622.427 5540)"><tspan x="0" y="0">AUSTRALIA</tspan></text>
+    <text id="INDONESIA" class="cls-2" transform="translate(797.543 5540)"><tspan x="0" y="0">INDONESIA</tspan></text>
+    <text id="_1981" data-name="1981" class="cls-3" transform="translate(623.237 5556)"><tspan x="0" y="0">1981</tspan></text>
+    <text id="_2000" data-name="2000" class="cls-3" transform="translate(797.32 5556)"><tspan x="0" y="0">2000</tspan></text>
+    <line id="Line_1-6" data-name="Line 1" class="cls-4" x2="68.818" transform="translate(622.179 5523.5)"/>
+    <line id="Line_2" data-name="Line 2" class="cls-4" x2="68.818" transform="translate(797.802 5523.5)"/>
+    <text id="_2014" data-name="2014" class="cls-5" transform="translate(663.356 5556)"><tspan x="0" y="0">2014</tspan></text>
+    <text id="_2017" data-name="2017" class="cls-5" transform="translate(839.481 5556)"><tspan x="0" y="0">2017</tspan></text>
+    <rect id="Rectangle_45-6" data-name="Rectangle 45" class="cls-6" width="28.669" height="137.262" transform="translate(622.712 5577.289)"/>
+    <rect id="Rectangle_88" data-name="Rectangle 88" class="cls-6" width="28.669" height="111.262" transform="translate(797.055 5577.289)"/>
+    <rect id="Rectangle_46-6" data-name="Rectangle 46" width="28.669" height="208.848" transform="translate(661.204 5577.289)"/>
+    <rect id="Rectangle_89" data-name="Rectangle 89" width="28.669" height="231.848" transform="translate(837.529 5577.289)"/>
+    <text id="_31_3" data-name="31,3" class="cls-3" transform="translate(635.844 5724.738)"><tspan x="-9.391" y="0">31,3</tspan></text>
+    <text id="_28_5" data-name="28,5" class="cls-3" transform="translate(813.733 5700.738)"><tspan x="-9.391" y="0">28,5</tspan></text>
+    <text id="_35_8" data-name="35,8" class="cls-5" transform="translate(674.36 5796.152)"><tspan x="-9.391" y="0">35,8</tspan></text>
+    <text id="INDIA" class="cls-2" transform="translate(713.863 5540)"><tspan x="0" y="0">INDIA</tspan></text>
+    <text id="TURQUÍA" class="cls-2" transform="translate(892.826 5540)"><tspan x="0" y="0">TURQUÍA</tspan></text>
+    <text id="_1983" data-name="1983" class="cls-3" transform="translate(713.906 5556)"><tspan x="0" y="0">1983</tspan></text>
+    <text id="_2002" data-name="2002" class="cls-3" transform="translate(892.603 5556)"><tspan x="0" y="0">2002</tspan></text>
+    <line id="Line_1-7" data-name="Line 1" class="cls-4" x2="68.818" transform="translate(712.554 5523.5)"/>
+    <line id="Line_3" data-name="Line 3" class="cls-4" x2="68.818" transform="translate(893.085 5523.5)"/>
+    <text id="_2011" data-name="2011" class="cls-5" transform="translate(754.025 5556)"><tspan x="0" y="0">2011</tspan></text>
+    <text id="_2016" data-name="2016" class="cls-5" transform="translate(934.764 5556)"><tspan x="0" y="0">2016</tspan></text>
+    <rect id="Rectangle_45-7" data-name="Rectangle 45" class="cls-6" width="28.669" height="164.5" transform="translate(713.328 5577.289)"/>
+    <rect id="Rectangle_90" data-name="Rectangle 90" class="cls-6" width="28.669" height="257.5" transform="translate(892.337 5577.289)"/>
+    <rect id="Rectangle_46-7" data-name="Rectangle 46" width="28.669" height="206.977" transform="translate(751.82 5577.289)"/>
+    <rect id="Rectangle_91" data-name="Rectangle 91" width="28.669" height="259.977" transform="translate(932.812 5577.289)"/>
+    <text id="_32_1" data-name="32,1" class="cls-3" transform="translate(726.517 5752.5)"><tspan x="-9.391" y="0">32,1</tspan></text>
+    <text id="_41.4" data-name="41.4" class="cls-3" transform="translate(907.015 5845.5)"><tspan x="-9.391" y="0">41.4</tspan></text>
+    <text id="_35_7" data-name="35,7" class="cls-5" transform="translate(765.034 5795.023)"><tspan x="-9.391" y="0">35,7</tspan></text>
+    <text id="_41.9" data-name="41.9" class="cls-5" transform="translate(947.49 5847.023)"><tspan x="-9.391" y="0">41.9</tspan></text>
+    <text id="_38_1" data-name="38,
+1" class="cls-5" transform="translate(851.863 5820.023)"><tspan x="-7.043" y="0">38,</tspan><tspan x="-2.348" y="10">1</tspan></text>
+  </g>
+</svg>
